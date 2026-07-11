@@ -1,0 +1,4 @@
+python
+Playwright
+Discord API
+SQLite
