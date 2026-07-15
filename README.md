@@ -31,3 +31,12 @@
 ## Status
 Work in progress
 - this project is being built incrementally, with each version introducing new functionality while improving my understanding of web scraping, automation, and software design.
+
+## Setup
+'''bash
+git clone <https://github.com/408net/408s-radar>
+cd 408s-radar
+python -m venv .venv
+pip install -r requirements.txt
+python src/main.py
+'''
